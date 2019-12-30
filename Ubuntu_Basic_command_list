@@ -1,0 +1,28 @@
+CTRL+G – Leave the history searching mode without running the command.
+CTRL+W – Delete the words before the cursor. adding it to the clipboard.
+CTRL+U – Delete all characters before the cursor .adding it to the clipboard.
+CTRL+K – Delete all characters after the cursor.adding it to the clipboard.
+CTRL+L – Clears the screen .
+CTRL+T – Swaps the last two characters.
+CTRL+Y –  Retrieves last item that you deleted or cut.(yank)
+Ctrl+P or Up Arrow: Go to the previous command in the command history.
+Ctrl+N or Down Arrow: Go to the next command in the command history.
+Alt+D: Delete all characters after the cursor.
+ALT+U – Capitalize all characters in a word after the cursor.
+ALT+L – Uncaptalize all characters in a word after the cursor.
+!! – Repeats the last command.
+!blah – run the most recent command that starts with ‘blah’ (e.g. !ls)
+Ctrl+_: Undo your last key press. You can repeat this to undo multiple times.
+yy - copy lines into buffer
+p - paste storage buffer after current line
+u - undo last operation
+ctrl + r - redo last operation
+dw	delete a word.
+d0	delete to the beginning of a line.
+d$	delete to the end of a line.
+d)	delete to the end of sentence.
+dgg	delete to the beginning of the file.
+dG	delete to the end of the file.
+dd	delete line
+G	move to the end of the file
+gg	move to the beginning of the file. 
